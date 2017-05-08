@@ -1,4 +1,4 @@
-# Multiple Evidence Fusion
+# Multiple Evidence Fusion <img src="logo.png" align="right" alt="logo" height="180" width="180" />
 
 This repository archives the datasets, R code, and Python code for the paper 'Integrating multiple evidence sources to predict adverse drug reactions based on systems pharmacology model' <[DOI:10.1002/psp4.12002](http://doi.org/10.1002/psp4.12002)> ([PDF](https://nanx.me/papers/MEF.pdf)).
 
